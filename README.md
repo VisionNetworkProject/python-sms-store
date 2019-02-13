@@ -15,5 +15,5 @@ $ pip3 install sms-store
 ## Usage
 
 ``` python
-from sms_store import ym
+from sms_store import kma
 ```
